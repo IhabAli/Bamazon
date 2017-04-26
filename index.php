@@ -1,1 +1,1 @@
-<?php include_once(“bamazonCostumer.js, bamazonExecutive.js, baamzonManager.js ”); ?>
+<?php include_once(“ bamazonManager.js, bamazonCustomer.js ”); ?>
